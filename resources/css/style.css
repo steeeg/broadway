@@ -10,7 +10,7 @@ h1 {
 }
 .background {
   color: white;
-  background-image: url(/Users/verSTEEGen/Desktop/Projects/broadway/resources/images/the-flatiron-building.png);
+  background-image: url(../images/the-flatiron-building.png);
 }
 .nav {
   font-size: 18px;
