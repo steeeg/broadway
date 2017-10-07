@@ -2,9 +2,33 @@ body {
   font-family: Helvetica;
   text-align: center;
 }
-h1,h2,h3 {
+h1, h2, h3 {
   font-weight: bold;
 }
 h1 {
   font-size: 70px;
+}
+.background {
+  color: white;
+  background-image: url(/Users/verSTEEGen/Desktop/Projects/broadway/resources/images/the-flatiron-building.png);
+}
+.nav {
+  font-size: 18px;
+}
+h3 {
+  font-size: 23px;
+}
+.background h2 {
+  font-size: 23px;
+}
+.info p {
+  font-size: 14px;
+}
+h2 {
+  font-size: 32px;
+}
+.footer p {
+  text-align: left;
+  background-color: dimgray;
+  font-size: 11px;
 }
