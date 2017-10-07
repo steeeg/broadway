@@ -9,12 +9,10 @@ h1 {
   font-size: 70px;
 }
 .background {
-  color: white;
   background-image: url(../images/the-flatiron-building.png);
 }
 .nav {
   font-size: 18px;
-  color: white;
 }
 h3 {
   font-size: 23px;
@@ -32,4 +30,7 @@ h2 {
   text-align: left;
   background-color: dimgray;
   font-size: 11px;
+}
+.background, .nav, .footer {
+  color: white;
 }
